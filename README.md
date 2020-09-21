@@ -19,3 +19,5 @@ The goal of this election audit analysis is to find the out: The total number of
 **Election-Audit Summary**
 
 The staement help in counting the vote turnaround with minimal effort. Hence, increasing the efficinecy. It also reduce the chances of making an error while counting the votes. Since, this is an automed system it's use can be expanded through out the State of Colorado and the nation.
+
+![image](https://user-images.githubusercontent.com/67131400/93729235-349cbd00-fb89-11ea-900a-dbb0f2cb11d3.png)
