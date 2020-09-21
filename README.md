@@ -20,6 +20,6 @@ The goal of this election audit analysis is to find the out: The total number of
 
 **Election-Audit Summary**
 
-The staement help in counting the vote turnaround with minimal effort. Hence, increasing the efficinecy. It also reduce the chances of making an error while counting the votes. Since, this is an automed system it's use can be expanded through out the State of Colorado and the nation.
+The staement help in counting the vote turnaround with minimal effort. Hence, increasing the efficinecy. It also reduce the chances of making an error while counting the votes. One thing I would check is the versacity of the figure of the number of votes turnout in Denver county and number of vote casted for Diana DeGette which accounted for 82.8% and 73.8% because of the disproportaion rate in percentage of vote turnout. Also, I would check what the total population of the couties are and what the was forecasted in the counties and the projected winner to see the difference beteer projected winner and actual winner vote figure. If the margin of error is low this analysis model could be replicated to analyze the candidates in the presidential election with some changes in electoral as candidate names and with the decission based on votes received by electorals.
 
 
