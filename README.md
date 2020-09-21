@@ -15,3 +15,7 @@ The goal of this election audit analysis is to find the out: The total number of
 * While analysing the number of votes each candidates received, out of total 369,711 votes casted, Diana DeGette received 272,892 votes, Charles Casper Stockham received 85,213 votes and Raymon Anthony Doane received 11,606 votes.
 
 * Diana Degette won the election with landslide victory with total of 272,892 votes which accounts for 73.8% of total votes.
+
+**Election-Audit Summary**
+
+The staement help in counting the vote turnaround with minimal effort. Hence, increasing the efficinecy. It also reduce the chances of making an error while counting the votes. Since, this is an automed system it's use can be expanded through out the State of Colorado and the nation.
